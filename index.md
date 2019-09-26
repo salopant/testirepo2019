@@ -8,6 +8,7 @@ sdöflkj sdf
 ##sdfölk
 sdf
 äsdf
+[Page2](page2.html).
 älsdfäkölsdf
 #One more time
 ok it's done
